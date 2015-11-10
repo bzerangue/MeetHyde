@@ -17,7 +17,7 @@ No installations are needed, just follow these steps and start editing your webs
 ![](https://raw.githubusercontent.com/MeetHyde/meethyde.github.io/master/assets/images/docs/goto.jpg)
 
 	  
- Click on Genetare new token, give it a description and select the scopes, you can select all or adjust it to your needs:
+ Click on "Generate new token", give it a description and select the scopes, you can select all or adjust it to your needs:
  
  ![](https://raw.githubusercontent.com/MeetHyde/meethyde.github.io/master/assets/images/docs/set-options.jpg)
 	  
